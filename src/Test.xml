@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Products>
+    <product>
+        <ProductName>пк</ProductName>
+        <ManufacturerName>PowerColor</ManufacturerName>
+        <YnpOfManufacturer>24574</YnpOfManufacturer>
+        <QuantityOnStock>302</QuantityOnStock>
+        <WarehouseAddress>Пушкина 16</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>2663</YnpOfManufacturer>
+        <QuantityOnStock>13091</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>Zotac</ManufacturerName>
+        <YnpOfManufacturer>19633</YnpOfManufacturer>
+        <QuantityOnStock>14927</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>9592</YnpOfManufacturer>
+        <QuantityOnStock>5106</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>пк</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>10716</YnpOfManufacturer>
+        <QuantityOnStock>11831</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>16615</YnpOfManufacturer>
+        <QuantityOnStock>4679</QuantityOnStock>
+        <WarehouseAddress>Пушкина 16</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>8250</YnpOfManufacturer>
+        <QuantityOnStock>677</QuantityOnStock>
+        <WarehouseAddress>Люцинская 53</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>10515</YnpOfManufacturer>
+        <QuantityOnStock>4640</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>PowerColor</ManufacturerName>
+        <YnpOfManufacturer>23506</YnpOfManufacturer>
+        <QuantityOnStock>10663</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>Zotac</ManufacturerName>
+        <YnpOfManufacturer>14074</YnpOfManufacturer>
+        <QuantityOnStock>6555</QuantityOnStock>
+        <WarehouseAddress>Люцинская 53</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>пк</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>29831</YnpOfManufacturer>
+        <QuantityOnStock>13527</QuantityOnStock>
+        <WarehouseAddress>Пушкина 16</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>13452</YnpOfManufacturer>
+        <QuantityOnStock>12898</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>пк</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>8683</YnpOfManufacturer>
+        <QuantityOnStock>10848</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>PowerColor</ManufacturerName>
+        <YnpOfManufacturer>10679</YnpOfManufacturer>
+        <QuantityOnStock>12757</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>10767</YnpOfManufacturer>
+        <QuantityOnStock>5399</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>PowerColor</ManufacturerName>
+        <YnpOfManufacturer>18754</YnpOfManufacturer>
+        <QuantityOnStock>3591</QuantityOnStock>
+        <WarehouseAddress>Пушкина 16</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>26281</YnpOfManufacturer>
+        <QuantityOnStock>14491</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>28780</YnpOfManufacturer>
+        <QuantityOnStock>9128</QuantityOnStock>
+        <WarehouseAddress>Люцинская 53</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>9728</YnpOfManufacturer>
+        <QuantityOnStock>7247</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>пк</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>971</YnpOfManufacturer>
+        <QuantityOnStock>16677</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>25928</YnpOfManufacturer>
+        <QuantityOnStock>2995</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>чайник</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>21891</YnpOfManufacturer>
+        <QuantityOnStock>8410</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>21756</YnpOfManufacturer>
+        <QuantityOnStock>12921</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>13822</YnpOfManufacturer>
+        <QuantityOnStock>8572</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>1568</YnpOfManufacturer>
+        <QuantityOnStock>18007</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>8464</YnpOfManufacturer>
+        <QuantityOnStock>11939</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>Zotac</ManufacturerName>
+        <YnpOfManufacturer>29616</YnpOfManufacturer>
+        <QuantityOnStock>13315</QuantityOnStock>
+        <WarehouseAddress>Люцинская 53</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>пк</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>25226</YnpOfManufacturer>
+        <QuantityOnStock>7076</QuantityOnStock>
+        <WarehouseAddress>Пушкина 16</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>11444</YnpOfManufacturer>
+        <QuantityOnStock>13052</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>чайник</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>9709</YnpOfManufacturer>
+        <QuantityOnStock>160</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>чайник</ProductName>
+        <ManufacturerName>PowerColor</ManufacturerName>
+        <YnpOfManufacturer>28142</YnpOfManufacturer>
+        <QuantityOnStock>18320</QuantityOnStock>
+        <WarehouseAddress>Пушкина 16</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>Zotac</ManufacturerName>
+        <YnpOfManufacturer>24995</YnpOfManufacturer>
+        <QuantityOnStock>13660</QuantityOnStock>
+        <WarehouseAddress>Люцинская 53</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>9972</YnpOfManufacturer>
+        <QuantityOnStock>16976</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>3601</YnpOfManufacturer>
+        <QuantityOnStock>5536</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>27647</YnpOfManufacturer>
+        <QuantityOnStock>12859</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>пк</ProductName>
+        <ManufacturerName>PowerColor</ManufacturerName>
+        <YnpOfManufacturer>27202</YnpOfManufacturer>
+        <QuantityOnStock>18776</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>8328</YnpOfManufacturer>
+        <QuantityOnStock>12252</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>12355</YnpOfManufacturer>
+        <QuantityOnStock>10306</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>15146</YnpOfManufacturer>
+        <QuantityOnStock>22</QuantityOnStock>
+        <WarehouseAddress>Люцинская 53</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>Zotac</ManufacturerName>
+        <YnpOfManufacturer>9323</YnpOfManufacturer>
+        <QuantityOnStock>2331</QuantityOnStock>
+        <WarehouseAddress>Люцинская 53</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>чайник</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>21430</YnpOfManufacturer>
+        <QuantityOnStock>7155</QuantityOnStock>
+        <WarehouseAddress>Кижеватого 23</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>Zotac</ManufacturerName>
+        <YnpOfManufacturer>22962</YnpOfManufacturer>
+        <QuantityOnStock>16527</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>чайник</ProductName>
+        <ManufacturerName>PowerColor</ManufacturerName>
+        <YnpOfManufacturer>7264</YnpOfManufacturer>
+        <QuantityOnStock>17501</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>пк</ProductName>
+        <ManufacturerName>Zotac</ManufacturerName>
+        <YnpOfManufacturer>7858</YnpOfManufacturer>
+        <QuantityOnStock>10032</QuantityOnStock>
+        <WarehouseAddress>Люцинская 53</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>22257</YnpOfManufacturer>
+        <QuantityOnStock>13247</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>чайник</ProductName>
+        <ManufacturerName>Sinotex</ManufacturerName>
+        <YnpOfManufacturer>20753</YnpOfManufacturer>
+        <QuantityOnStock>4867</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>ноут</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>15361</YnpOfManufacturer>
+        <QuantityOnStock>9707</QuantityOnStock>
+        <WarehouseAddress>Пушкина 16</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>HP</ManufacturerName>
+        <YnpOfManufacturer>11605</YnpOfManufacturer>
+        <QuantityOnStock>16569</QuantityOnStock>
+        <WarehouseAddress>Победителей 91</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>телефон</ProductName>
+        <ManufacturerName>Zotac</ManufacturerName>
+        <YnpOfManufacturer>5489</YnpOfManufacturer>
+        <QuantityOnStock>5280</QuantityOnStock>
+        <WarehouseAddress>Пушкина 16</WarehouseAddress>
+    </product>
+    <product>
+        <ProductName>камера</ProductName>
+        <ManufacturerName>AMD</ManufacturerName>
+        <YnpOfManufacturer>8066</YnpOfManufacturer>
+        <QuantityOnStock>13840</QuantityOnStock>
+        <WarehouseAddress>Притыцкого 72</WarehouseAddress>
+    </product>
+</Products>
