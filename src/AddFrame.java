@@ -3,9 +3,9 @@ import javax.swing.*;
 
 public class AddFrame extends JFrame {
 
-    ChoosePanel choosePanel = new ChoosePanel();
-    DataController DC;
-    JButton add;
+    private ChoosePanel choosePanel = new ChoosePanel();
+    private DataController DC;
+    public JButton add;
 
     AddFrame(DataController DC){
         super("Add Window");
